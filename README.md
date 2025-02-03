@@ -37,7 +37,7 @@ More Browser support will be implemented soon.
 This project is intended for educational and recovery purposes only. Please ensure compliance with applicable laws and regulations in your jurisdiction.
 
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or bug fixes, please fork the repository and submit a pull request.
 
